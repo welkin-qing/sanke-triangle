@@ -93,6 +93,7 @@
 
 ### 5.4 运行结果
 1. 开始界面
+
  ![开始界面](https://img-blog.csdnimg.cn/20181208203733801.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1dlbGtpbl9xaW5n,size_16,color_FFFFFF,t_70)
 
 2. 输入等边三角形边长
