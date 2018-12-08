@@ -32,6 +32,7 @@
 （3）puts() 函数：输出字符串
 （4）getch() 函数：输入一个字符，不回显
 （5）putInt() 函数：将AX寄存器中的数字以十进制的形式输出
+
 ##### 2.2 控制模块说明
 （1）movCursor() 移动光标模块：将光标移动至y行x列
 （2）sDelay() 延时函数模块：控制贪吃蛇移动速度
@@ -89,9 +90,11 @@
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20181208203629250.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1dlbGtpbl9xaW5n,size_16,color_FFFFFF,t_70)
 
 - 画三角形主要流程：
+
  ![画三角形主要流程](https://img-blog.csdnimg.cn/20181208203704506.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1dlbGtpbl9xaW5n,size_16,color_FFFFFF,t_70)
 
 ### 5.4 运行结果
+
 1. 开始界面
 
  ![开始界面](https://img-blog.csdnimg.cn/20181208203733801.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1dlbGtpbl9xaW5n,size_16,color_FFFFFF,t_70)
@@ -136,6 +139,7 @@
 
 
 4. 可循环读入等边三角形边长（此处为80）
+
  ![在这里插入图片描述](https://img-blog.csdnimg.cn/20181208204020273.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1dlbGtpbl9xaW5n,size_16,color_FFFFFF,t_70)
 
 5、按Enter清除右半部分屏幕并重新打印
